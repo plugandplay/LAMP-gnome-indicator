@@ -1,0 +1,24 @@
+LAMP gnome indicator
+--------------------
+
+Just a GUI for gnome desktop to:
+
+- start/stop LAMP server
+- start/stop mySQL service
+- launch phpMyAdmin in your browser
+
+
+###################
+
+How to install LAMP in ubuntu (http://doc.ubuntu-fr.org/lamp)
+sudo apt-get install lamp-server^
+
+Package for mySQL:
+mysql-server
+
+Packages for php:
+php5 php5-mysql
+
+###################
+
+Works on Ubuntu 10.10 64bits.
